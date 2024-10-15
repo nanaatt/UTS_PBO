@@ -1,6 +1,6 @@
 # LAPORAN UTS PEMROGRAMAN BERORIENTASI OBJEK
 
-👨‍🏫 **Dosen Pembimbing**: Bayu Adi Nugroho, Ph.D  
+👨‍🏫 **Dosen Pembimbing**: Bayu Adhi Nugroho, Ph.D  
 🎓 **Program Studi**: Sistem Informasi
 
 Laporan ini dibuat guna melengkapi tugas UTS pada nomor 6 mengenai CRUD dengan Java Swing dan menggunakan Database Mata Kuliah yang memiliki atribut 📚 **Kode Mata Kuliah**, 📖 **SKS**, 🗓️ **Nama Mata Kuliah**, dan 🏢 **Semester Ajaran**.
